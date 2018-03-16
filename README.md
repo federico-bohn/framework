@@ -102,4 +102,3 @@ Para migrar un proyecto a la nueva versión se recomienda lo siguiente:
 ```shell
 toba proyecto importar -p nombre_proyecto -d dir_instalacion_anterior --destino `pwd`
 ```
-Feder
